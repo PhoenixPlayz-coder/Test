@@ -3,3 +3,6 @@ Lucy's Mother
 Randy
 Lucy's Friend
 Librarian
+Lucy's Dog
+Lucy's Cat
+Lucy's Elephant
